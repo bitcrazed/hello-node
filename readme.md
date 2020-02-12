@@ -23,4 +23,4 @@ Available on:
 
 ## License
 
-Licensed under the MIT license as declared in the accompanying `license.md` file.
+Licensed under the MIT license as declared in the accompanying [license.md](https://github.com/bitcrazed/hello-node/blob/master/license.md) file.
