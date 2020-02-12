@@ -12,7 +12,7 @@ Be sure to install `http-server` to serve the site:
 
 To host the site, run `http-server`:
 
-```ps
+```txt
 C:\> http-server
 Starting up http-server, serving ./
 Available on:
