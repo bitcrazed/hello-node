@@ -4,9 +4,9 @@ Simple website built atop node.js
 
 ## Installing
 
-Be sure to install `http-server` to serve the site:
+Be sure to install the node packages necessary to install `http-server` to serve the site:
 
-`npm install http-server`
+`npm install`
 
 ## Hosting the site
 
